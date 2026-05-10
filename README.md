@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=sherkent&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api?theme=onedark&username=sherkent&show_icons=true&include_all_commits=true&count_private=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
+  <img src="https://github-readme-stats.lovesykun.cn/api?username=sherkent&show_icons=true&include_all_commits=true&count_private=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=sherkent&layout=compact&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=10">
+  <img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=sherkent&layout=compact&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=10">
+</picture>
 
 <!--
 **sherkent/sherkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
